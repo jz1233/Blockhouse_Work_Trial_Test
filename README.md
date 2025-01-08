@@ -6,14 +6,14 @@ This repository contains Python scripts and Jupyter notebooks for analyzing Orde
 ## Steps to Run
 ### Part 1: Data Preprocessing and Self-Impact Analysis
 Preprocess raw data and generate OFI for each stock.
-Analyze the self-impact of each stock on its returns.
+Analyze the self-impact of integrated OFI on its returns of each stock.
 ### Part 2: Cross-Impact Analysis
 Perform contemporaneous and lagged cross-impact analysis for multiple stocks.
-Evaluate the influence of one stock’s OFI on others’ returns.
+Evaluate the influence of other stock’s OFIs on one stock's return.
 ### Part 3: Optional: Cross-Sector Impact (Example: JPM)
 Develop a model to explore cross-sector impact, using JPM as an example.
 ### Part 4: Visualization
-Generate heatmaps, scatter plots, and time-series visualizations to illustrate key insights.
+Generate heatmaps, scatter plots visualizations to illustrate key insights.
 
 ## Key Findings
 ### Self-Impact Dominance:
